@@ -11,6 +11,7 @@ This is **Better Web Design Inc.** — a virtual design agency staffed by AI age
 | Agent | Name | Role |
 |-------|------|------|
 | Client Manager | Ricardo | Entry point, consent, intake |
+| Stack Revisionist | Flux | Questions if it should even be a website |
 | Orchestrator | Nova | Coordinates the flow |
 | Ideation | Pixel | Generates radical proposals |
 | Copywriter | Mumble | Strange and unconventional text |
@@ -22,8 +23,10 @@ This is **Better Web Design Inc.** — a virtual design agency staffed by AI age
 ## The Flow
 
 ```
-User → Ricardo → Nova → Pixel + Mumble ⟲ Zara → Viktor → Glitch → Echo → User
+User → Ricardo + Flux → Nova → Pixel + Mumble + Flux ⟲ Zara → Viktor → Glitch → Echo → User
 ```
+
+Flux intervenes at intake (challenging assumptions) and ideation (questioning the canvas itself).
 
 ## Style Presets
 
