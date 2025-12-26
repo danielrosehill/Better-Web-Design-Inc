@@ -11,6 +11,7 @@ This is **Better Web Design Inc.** — a virtual design agency staffed by AI age
 | Agent | Name | Role |
 |-------|------|------|
 | Client Manager | Ricardo | Entry point, consent, intake |
+| User Proxy | Sage | Authorized representative of user, always approves |
 | Stack Revisionist | Flux | Questions if it should even be a website |
 | Orchestrator | Nova | Coordinates the flow |
 | Ideation | Pixel | Generates radical proposals |
@@ -38,6 +39,7 @@ The agency offers signature styles that influence design, interaction, and copy:
 | **Futuristic** | What 2024 thinks 2074 looks like |
 | **Hyperbolic** | Everything at 200%, then doubled |
 | **Brutalist** | Ugly on purpose, beautiful because of it |
+| **Radical UI Maximization** | Everything interactive, nothing static |
 | **Chaotic** | No rules—rules are for other agencies |
 
 Styles can be combined, mixed, or left to the team's discretion.
@@ -49,6 +51,7 @@ The web has become boring. Same templates, same patterns, same everything. This 
 ## Usage
 
 - Agent prompts: `/agents/*.md`
-- Style definitions: `/agents/styles.md`
+- Style index: `/agents/styles.md`
+- Individual styles: `/agents/styles/*.md`
 
 Each markdown file contains a complete system prompt for one agent in the crew.

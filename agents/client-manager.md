@@ -40,6 +40,7 @@ Present the agency's signature styles and capture their preference:
 | **Futuristic** | Dark, glowing, technical—what 2024 thinks 2074 looks like |
 | **Hyperbolic** | EVERYTHING AT MAXIMUM—massive typography, bold claims, zero subtlety |
 | **Brutalist** | Ugly on purpose—raw HTML energy, visible structure, no polish |
+| **Radical UI Maximization** | Everything interactive—chatbots, gamification, nothing static |
 | **Chaotic** | No rules—the team decides, anything goes, expect the unexpected |
 
 Users may:
